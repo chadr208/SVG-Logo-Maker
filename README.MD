@@ -13,7 +13,10 @@ A simple CLI SVG logo maker which includes the options of three shapes, a circle
 ## Installation: {#installation-header}
 Clone repo
 ## Usage: {#usage-header}
-Open app intergrated terminal
+*Open app intergrated terminal
+*Run "Npm run start"
+*Follow prompts
+*SVG will be placed in the examples folder when created. 
 ## Contributing: {#contribution-header}
 Please fork the repository and create your modifications. Contact me utilizing my information below if you would like to make contributions. 
 ## Tests: {#testing-header}
